@@ -1,0 +1,115 @@
+{
+  "frames": [
+    {
+      "filename": "dogg",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1082,
+        "h": 1142
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 113,
+        "y": 28,
+        "w": 1082,
+        "h": 1142
+      },
+      "sourceSize": {
+        "w": 1242,
+        "h": 1229
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "dogdead",
+      "frame": {
+        "x": 1082,
+        "y": 0,
+        "w": 467,
+        "h": 909
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 467,
+        "h": 909
+      },
+      "sourceSize": {
+        "w": 467,
+        "h": 909
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "dog",
+      "frame": {
+        "x": 0,
+        "y": 1142,
+        "w": 112,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 1,
+        "w": 112,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 124,
+        "h": 123
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "doggg",
+      "frame": {
+        "x": 0,
+        "y": 1262,
+        "w": 71,
+        "h": 73
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 4,
+        "y": 0,
+        "w": 71,
+        "h": 73
+      },
+      "sourceSize": {
+        "w": 75,
+        "h": 74
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "dogtest.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1991,
+      "h": 1335
+    },
+    "scale": 1
+  }
+}
